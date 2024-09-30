@@ -1,0 +1,6 @@
+@OcelotApp.Products_HostAddress = http://localhost:5184
+
+GET {{OcelotApp.Products_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
